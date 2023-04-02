@@ -13,6 +13,10 @@
 <li>JavaScript: linguagem de programação utilizada tanto no backend quanto no frontend</li>
 <li>Bootstrap: framework CSS para criação de interfaces web responsivas</li>
 <li>MongoDB: banco de dados não-relacional utilizado para armazenar os dados da agenda</li>
-  
+ <br>
+  <br>
+   <br>
+    <br>
+     <br>
   
 <p><strong>OBSERVAÇÃO: O projeto está em constante atualização, ou seja não é sua versão completa! </strong></p>
