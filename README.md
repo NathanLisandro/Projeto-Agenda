@@ -1,4 +1,3 @@
-<body color="gray">
 # Projeto AGENDA
 
 Este é um projeto de uma agenda feito com Node.js, JavaScript, Bootstrap e MongoDB.
@@ -50,4 +49,3 @@ Contribuições são sempre bem-vindas! Se você quiser contribuir com este proj
 ## Observações
 
 Projeto está atualmente em sua versão 1.0, ou seja, receberá atualizações ao decorrer do tempo. Espero que gostem.
-</body>
