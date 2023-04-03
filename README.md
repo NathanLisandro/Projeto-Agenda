@@ -12,7 +12,7 @@ Para instalar o projeto, você precisará ter:
 
 Em seguida, siga os seguintes passos:
 
-1. Clone o repositório para a sua máquina usando o comando `git clone https://github.com/seu-usuario/projeto-agenda.git`.
+1. Clone o repositório para a sua máquina usando o comando `git clone https://github.com/NathanLisandro/projeto-agenda.git`.
 2. Na pasta raiz do projeto, instale as dependências usando o comando `npm install`.
 3. Configure as variáveis de ambiente no arquivo `.env` de acordo com as suas preferências. Certifique-se de ter um banco de dados MongoDB configurado e funcionando corretamente.
 4. Inicie o servidor usando o comando `npm start`.
